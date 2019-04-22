@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScanApp</string>
+    <string name="scan_btn">Scan</string>
+    <string name="titl_txt">Scan</string>
+    <string name="pop_up_ttl">Confirm</string>
+    <string name="crop_activity_titl_txt">Crop Image</string>
+    <string name="titl_hstry_txt">History</string>
+</resources>
